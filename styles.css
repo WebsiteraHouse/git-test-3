@@ -1,0 +1,26 @@
+.img-text{
+  background-color: red;
+  text-align: center;
+  padding: 20px;
+  margin: 20px;
+}
+.rose-img{
+  background-color: aqua;
+  padding:20px;
+  text-align: center;
+}
+.fortext{
+  background-color: aquamarine;
+}
+.text-box{
+  background-color: black;
+  padding: 50px;
+  color: azure;
+}
+.heading{
+text-align: center;
+}
+.caption{
+  font-size: 20px;
+  font-weight: 900;
+}
